@@ -1,15 +1,24 @@
-* {
-    font-family: Helvetica;
+* {    
     box-sizing: border-box;
+    font-family: Helvetica;
 }
 
+h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;    
+}
 
-
+.price {
+    color: blue;
+    font-weight: bold;
+}
 
 .title {
+    background-image: url("pattern.jpeg");
+    color: khaki;
     font-size: 100px;
     font-weight: bold;
-    color: khaki;
     text-align: center;
-    background-image: url("pattern.jpeg");
+    
 }
